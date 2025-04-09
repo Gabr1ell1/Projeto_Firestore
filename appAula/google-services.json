@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766146598438",
+    "project_id": "prjaula-bf955",
+    "storage_bucket": "prjaula-bf955.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766146598438:android:ddc9938df154ab402e38e7",
+        "android_client_info": {
+          "package_name": "com.company.appAula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMqAM39733IAk1GSl7vdDvlkUa93_710"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
